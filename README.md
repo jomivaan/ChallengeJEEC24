@@ -16,5 +16,6 @@ In this folder you can check the image you should upload to your challenge.
 
   - [Carousel in Vue3](https://ismail9k.github.io/vue3-carousel/examples.html)
   - [Vue3 basics](https://vuejs.org/guide/introduction.html)
+- Info
 We do not expect you to do all of this, we want to check how you deal with problems.
 If you do a simpler page, it is still good. 
