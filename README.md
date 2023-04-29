@@ -4,13 +4,17 @@ Welcome to the JEEC WebDev challenge! In this folder you have all the files you 
 
 ## Challenge details
 
-You will have to create a Vue3 carousel with four tabs. Three of the tabs will display a question while the other will be an image.
-Below the carousel, we want you to display the answers to the questions.  
+You will have to create a Vue3 carousel with four tabs.
+Below the carousel, we want you to display the answer to the question and the date that was inserted. 
 
-### Questions in carousel
-Two of the questions can be of your choice while the other must receive as an input a date (in any format).
-### Image to display
-In this folder you can check the image you should upload to your challenge, **challenge.png**
+### Tabs in carousel
+- Tabs:
+
+  1. A question of your choice
+  2. An input of a date (in any format)
+  3. This page follows the structure of **challenge2.png**
+  4. Image to display, **challenge.png**
+
 ### Useful links and more info
 - Useful links
 
