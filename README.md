@@ -12,7 +12,7 @@ Below the carousel, we want you to display the answer to the question and the da
 
   1. A question of your choice
   2. An input of a date (in any format)
-  3. This page follows the structure of **challenge2.png**
+  3. This tab follows the structure of **challenge2.png**, you can add any text 
   4. Image to display, **challenge.png**
 
 ### Useful links and more info
